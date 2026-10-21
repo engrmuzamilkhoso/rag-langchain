@@ -1,0 +1,22 @@
+{
+  "name": "rag-langchain",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "rag-langchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@langchain/core": "^1.2.20",
+    "@langchain/textsplitters": "^1.0.2"
+  }
+}
